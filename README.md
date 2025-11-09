@@ -2,10 +2,12 @@
 
 A machine learning project to automatically classify mathematical proofs as "Correct" or "Flawed", complete with an interactive Streamlit web app.
 
+Test case 1 - 
 <p align="center">
 <img src="demo.gif" alt="App Demo" width="750"/>
 </p>
 
+Test case 2 -
 <p align="center">
 <img src="demo1.gif" alt="App Demo" width="750"/>
 </p>
@@ -101,5 +103,6 @@ Meet the team that brought this project to life.
 Your Name - (LinkedIn | Portfolio)
 
 Collaborator Name - (LinkedIn)
+
 
 (Just edit the links above with your information!)
