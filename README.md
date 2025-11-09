@@ -60,7 +60,7 @@ joblib
 '''
 
 Install the required packages:
-'''bash
+'''python
 pip install -r requirements.txt
 '''
 
@@ -71,7 +71,7 @@ Running the application is a two-step process.
 1. Train the Model
 
 First, you must run the training script. This will process the math_proof_verifier_dataset_14000_13.csv and create the proof_verifier_pipeline.joblib model file that the app needs.
-'''bash
+'''python
 python train_model.py
 '''
 
@@ -80,7 +80,7 @@ You should see output in your terminal indicating the model is being trained, ev
 2. Run the Streamlit App
 
 Once the proof_verifier_pipeline.joblib file exists in your directory, you can launch the web application:
-'''bash
+'''python
 streamlit run app.py
 '''
 
@@ -103,4 +103,5 @@ Meet the team that brought this project to life.
 Annadata Aniketh - (https://www.linkedin.com/in/aniketh-annadata-439667303/)
 Pratheek GN - (https://www.linkedin.com/in/pratheek-g-n-117617358/)
 Akash 
+
 
