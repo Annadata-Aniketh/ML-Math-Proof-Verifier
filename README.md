@@ -13,7 +13,7 @@ Here is the application in action, classifying both a correct and a flawed proof
 
 | Correct Proof (✅) | Flawed Proof (❌) |
 | :---: | :---: |
-| \<img src="demo.gif" alt="Demo of a correct proof" width="100%"\> | \<img src="demo1.gif" alt="Demo of a flawed proof" width="100%"\> |
+| <img src="demo.gif" alt="Demo of a correct proof" width="100%"\> | <img src="demo1.gif" alt="Demo of a flawed proof" width="100%"\> |
 
 -----
 
@@ -159,3 +159,4 @@ This project was built by the following amazing team.
 >   * It **cannot** pinpoint the *specific logical error* in a flawed proof.
 
 >   * It may struggle with novel proof structures or complex mathematical notation not seen in its training data.
+
