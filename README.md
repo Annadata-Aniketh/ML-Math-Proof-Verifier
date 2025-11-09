@@ -1,20 +1,7 @@
 -----
-
-<br>
-
-\<div align="center"\>
-
 # 🔎 Math Proof Verifier
 
 ### An ML-powered classifier to determine if a mathematical proof is **Correct** or **Flawed**.
-
-\</div\>
-
-\<div align="center"\>
-
-\</div\>
-
-<br>
 
 This project uses a **Machine Learning pipeline** to classify text-based mathematical proofs. It is trained on a dataset of \~14,000 examples to distinguish between valid arguments and those containing logical flaws. The model is deployed in an interactive **Streamlit** web application.
 
@@ -170,4 +157,5 @@ This project was built by the following amazing team.
 >
 >   * The model learns from **statistical word patterns** (TF-IDF) in the training data, not from an understanding of mathematical axioms or formal logic.
 >   * It **cannot** pinpoint the *specific logical error* in a flawed proof.
+
 >   * It may struggle with novel proof structures or complex mathematical notation not seen in its training data.
