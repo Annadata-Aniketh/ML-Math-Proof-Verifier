@@ -88,7 +88,6 @@ This will open the application in your default web browser, ready to verify proo
 
 📁 Project Structure
 
-.
 ├── 📄 app.py               # The Streamlit web application
 ├── 📄 train_model.py       # The model training & evaluation script
 ├── 📄 math_proof_verifier_dataset_14000_13.csv  # The training data
@@ -100,9 +99,8 @@ This will open the application in your default web browser, ready to verify proo
 
 Meet the team that brought this project to life.
 
-Your Name - (LinkedIn | Portfolio)
+Annadata Aniketh - (https://www.linkedin.com/in/aniketh-annadata-439667303/)
 
-Collaborator Name - (LinkedIn)
+Pratheek GN - ((https://www.linkedin.com/in/pratheek-g-n-117617358/)
 
 
-(Just edit the links above with your information!)
