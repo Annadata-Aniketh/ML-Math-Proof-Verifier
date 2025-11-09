@@ -11,9 +11,15 @@ This project uses a **Machine Learning pipeline** to classify text-based mathema
 
 Here is the application in action, classifying both a correct and a flawed proof:
 
-| Correct Proof (✅) | Flawed Proof (❌) |
-| :---: | :---: |
-| \<img src="demo.gif" alt="Demo of a correct proof" width="100%"\> | \<img src="demo1.gif" alt="Demo of a flawed proof" width="100%"\> |
+Correct Proof (✅)-
+<p align="center">
+<img src="demo1.gif" alt="App Demo" width="750"/>
+</p>
+
+Flawed Proof (❌)-
+<p align="center">
+<img src="demo.gif" alt="App Demo" width="750"/>
+</p>
 
 -----
 
@@ -159,5 +165,6 @@ This project was built by the following amazing team.
 >   * It **cannot** pinpoint the *specific logical error* in a flawed proof.
 
 >   * It may struggle with novel proof structures or complex mathematical notation not seen in its training data.
+
 
 
