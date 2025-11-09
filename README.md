@@ -7,7 +7,7 @@ Test case 1 -
 <img src="demo.gif" alt="App Demo" width="750"/>
 </p>
 
-Test case 2 -
+Test case 2 - 
 <p align="center">
 <img src="demo1.gif" alt="App Demo" width="750"/>
 </p>
@@ -88,6 +88,7 @@ This will open the application in your default web browser, ready to verify proo
 
 📁 Project Structure
 
+.
 ├── 📄 app.py               # The Streamlit web application
 ├── 📄 train_model.py       # The model training & evaluation script
 ├── 📄 math_proof_verifier_dataset_14000_13.csv  # The training data
@@ -99,8 +100,5 @@ This will open the application in your default web browser, ready to verify proo
 
 Meet the team that brought this project to life.
 
-Annadata Aniketh - (https://www.linkedin.com/in/aniketh-annadata-439667303/)
-
-Pratheek GN - ((https://www.linkedin.com/in/pratheek-g-n-117617358/)
-
-
+Annadata Aniketh - (LinkedIn | Portfolio)
+Pratheek GN - (LinkedIn)
