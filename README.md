@@ -1,5 +1,5 @@
 -----
-# 🔎 Math Proof Verifier
+# Math Proof Verifier
 
 ### An ML-powered classifier to determine if a mathematical proof is **Correct** or **Flawed**.
 
@@ -7,7 +7,7 @@ This project uses a **Machine Learning pipeline** to classify text-based mathema
 
 -----
 
-## 🚀 Live Demo
+## Live Demo
 
 Here is the application in action, classifying both a correct and a flawed proof:
 
@@ -23,17 +23,17 @@ Flawed Proof (❌)-
 
 -----
 
-## ✨ Features
+## Features
 
-  * 🤖 **ML-Powered Classification:** Uses a `LinearSVC` model wrapped in a `TfidfVectorizer` pipeline to understand and classify proof text.
-  * 🖥️ **Interactive Web UI:** A simple and clean Streamlit app (`app.py`) for easy interaction.
-  * 📊 **Model Confidence:** Displays the model's confidence score for its prediction.
-  * 📈 **Rigorous Training:** The model is trained (`train_model.py`) using `GridSearchCV` to find the best-performing hyperparameters.
-  * 🎈 **Instant Feedback:** The app celebrates correct proofs (`st.balloons()`) and provides clear warnings for flawed ones.
+  * **ML-Powered Classification:** Uses a `LinearSVC` model wrapped in a `TfidfVectorizer` pipeline to understand and classify proof text.
+  * **Interactive Web UI:** A simple and clean Streamlit app (`app.py`) for easy interaction.
+  * **Model Confidence:** Displays the model's confidence score for its prediction.
+  * **Rigorous Training:** The model is trained (`train_model.py`) using `GridSearchCV` to find the best-performing hyperparameters.
+  * **Instant Feedback:** The app celebrates correct proofs (`st.balloons()`) and provides clear warnings for flawed ones.
 
 -----
 
-## 📂 Project Structure
+## Project Structure
 
 Here is the recommended directory structure for this project.
 
@@ -58,7 +58,7 @@ math-proof-verifier/
 
 -----
 
-## ⚙️ How It Works: The ML Pipeline
+## How It Works: The ML Pipeline
 
 The system is broken into two main parts: **Training** and **Inference**.
 
@@ -81,7 +81,7 @@ The system is broken into two main parts: **Training** and **Inference**.
 
 -----
 
-## 🛠️ How to Run This Project Locally
+## How to Run This Project Locally
 
 ### Prerequisites
 
@@ -145,7 +145,7 @@ Your browser should automatically open to the web application\!
 
 -----
 
-## 👥 Contributors
+## Contributors
 
 This project was built by the following amazing team.
 
@@ -157,7 +157,7 @@ This project was built by the following amazing team.
 
 -----
 
-## ⚠️ Model Limitations
+## Model Limitations
 
 > **Important:** This is a **text classifier**, not a formal logic verifier or a symbolic reasoner.
 >
