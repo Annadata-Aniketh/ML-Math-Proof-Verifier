@@ -163,8 +163,9 @@ This project was built by the following amazing team.
 >
 >   * The model learns from **statistical word patterns** (TF-IDF) in the training data, not from an understanding of mathematical axioms or formal logic.
 >   * It **cannot** pinpoint the *specific logical error* in a flawed proof.
-
 >   * It may struggle with novel proof structures or complex mathematical notation not seen in its training data.
+
+So we created this project in the Hackathon using Antigravity and other AI models and tools.
 
 
 
